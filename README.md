@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/b3rtopacks/clean-launcher-releases/releases/latest"><b>Download the public beta (v0.9.0)</b></a>
+  &nbsp;·&nbsp; Downloader code: <b>8477945</b>
   &nbsp;·&nbsp; Free
 </p>
 
@@ -89,12 +90,13 @@ A phone such as an iPhone can't do this step.
 
 ### Step 3 — Download Clean Launcher
 1. Open **Downloader** (allow access to files if it asks).
-2. In the box, type this address and select **Go**:
-   `https://github.com/b3rtopacks/clean-launcher-releases/releases/latest/download/CleanLauncher.apk`
+2. In the box, type the code **8477945** and select **Go**.
+   (Or type the full address instead:
+   `https://github.com/b3rtopacks/clean-launcher-releases/releases/latest/download/CleanLauncher.apk`)
 3. When the download finishes, select **Install**, then **Done**.
 4. Downloader offers to delete the downloaded file. Select **Delete** — it's no longer needed.
 
-This address always points to the newest public beta.
+The code and the address always point to the newest public beta.
 
 ### Step 4 — Open Clean Launcher
 Open your **Apps** list on the Fire TV home screen and select **Clean Launcher**.
@@ -177,10 +179,10 @@ by itself so Amazon's home screen stays usable. Opening Clean Launcher once swit
 
 ## Updating
 
-Install a newer version the same way: the download address in Step 3 always points to the newest
-public beta. It installs over the top and keeps your apps' order, hidden apps, style and
-Home-button setup, because every version is signed with the same key. You don't need the computer
-again.
+Install a newer version the same way: Downloader code **8477945** (or the address in Step 3)
+always points to the newest public beta. It installs over the top and keeps your apps' order,
+hidden apps, style and Home-button setup, because every version is signed with the same key. You
+don't need the computer again.
 
 **After updating, open Clean Launcher once** from your Apps list. Updating briefly stops Clean
 Launcher, so Amazon's home screen may be showing when the update finishes. Opening Clean Launcher
